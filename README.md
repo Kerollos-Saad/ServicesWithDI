@@ -2,8 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
 
+https://github.com/user-attachments/assets/c401f3b0-d634-4c97-bb61-eea0acc600a5
+
 ## Development server
 
+Run `npm install` for a Install dependencies.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
